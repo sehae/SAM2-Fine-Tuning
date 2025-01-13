@@ -6,3 +6,6 @@ Image Dimensions: 1024x1024.
 Validation and Testing:
 No validation set was utilized in this run.
 A dedicated test set was not used.
+
+Dataset:
+https://universe.roboflow.com/apollo-yvfzk/floor-plan-v2/dataset/3
